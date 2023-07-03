@@ -1,0 +1,47 @@
+[
+  {
+    "Board": 0,
+    "Key0Pitch": 66,
+    "Channel": 2,
+    "ColorDefault": "80ff00",
+    "ColorEdge": "00fffe",
+    "ColorC": "7f00ff",
+    "ColorMiddleC": "ff0001"
+  },
+  {
+    "Board": 1,
+    "Key0Pitch": 80,
+    "Channel": 2,
+    "ColorDefault": "80ff00",
+    "ColorEdge": "00fffe",
+    "ColorC": "7f00ff",
+    "ColorMiddleC": "ff0001"
+  },
+  {
+    "Board": 2,
+    "Key0Pitch": 70,
+    "Channel": 1,
+    "ColorDefault": "FFFF00",
+    "ColorEdge": "00FF7F",
+    "ColorC": "0000FF",
+    "ColorMiddleC": "FF0080"
+  },
+  {
+    "Board": 3,
+    "Key0Pitch": 84,
+    "Channel": 1,
+    "ColorDefault": "FFFF00",
+    "ColorEdge": "00FF7F",
+    "ColorC": "0000FF",
+    "ColorMiddleC": "FF0080"
+  },
+  {
+    "Board": 4,
+    "Key0Pitch": 98,
+    "Channel": 1,
+    "ColorDefault": "FFFF00",
+    "ColorEdge": "00FF7F",
+    "ColorC": "0000FF",
+    "ColorMiddleC": "FF0080"
+  }
+]
