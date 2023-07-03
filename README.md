@@ -8,6 +8,10 @@ This tool is a quick harmonic table note layout generator for .ltn files, which 
  
 This will generate a basic harmonic table note layout .ltn file, supporting one channel, given a properly formatted json file for input.
 
+For example:
+
+    lumatoneHtnlGen.exe -f ltndef_2channel.json > htnl_2channel.ltn
+
 ### ltn_def JSON format
 
 The format of the json is an array of layout definitions - one for each section:
